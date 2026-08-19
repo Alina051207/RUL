@@ -16,8 +16,8 @@ The current baseline set contains three representative sequence-learning approac
 
 All baselines use the same core prediction task:
 
-> \*\*Input:\*\* flight conditions `W` + observable sensors `Xs`  
-> \*\*Output:\*\* RUL `Y`
+> Input:flight conditions `W` + observable sensors `Xs`  
+> Output:RUL `Y`
 
 The resulting input dimension is **18** (4 flight-condition variables + 14 observable sensor variables).
 
